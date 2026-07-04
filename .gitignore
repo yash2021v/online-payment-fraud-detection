@@ -1,2 +1,4 @@
 online_payment_fraud.csv
 .ipynb_checkpoints/
+data/processed/
+models/
